@@ -1,5 +1,5 @@
 "use client";
-import { styled } from "styled-components";
+import styled from "styled-components";
 
 export const StyledSearchInputWrap = styled.div`
     position: relative;

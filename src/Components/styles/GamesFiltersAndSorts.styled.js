@@ -1,4 +1,4 @@
-import { styled } from "styled-components";
+import styled from "styled-components";
 
 export const StyledGamesFiltersAndSorts = styled.div`
     max-width: 400px;

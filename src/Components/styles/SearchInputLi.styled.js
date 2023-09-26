@@ -1,4 +1,4 @@
-import { styled } from "styled-components";
+import styled from "styled-components";
 
 export const StyledSearchInputLi = styled.li`
     list-style: none;

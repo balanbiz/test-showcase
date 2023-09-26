@@ -1,5 +1,5 @@
 "use client";
-import { styled } from "styled-components";
+import styled from "styled-components";
 
 export const StyledMainPage = styled.section`
     padding: 20px 0;

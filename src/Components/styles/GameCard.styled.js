@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { styled } from "styled-components";
+import styled from "styled-components";
 
 export const StyledGameCard = styled.div`
     max-width: 400px;
